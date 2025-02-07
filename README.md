@@ -16,4 +16,4 @@ howdy! whether you're a curious software nerd or prospective employer, i hope yo
 - [sandblock](https://github.com/mellodoot/sandblock)
 - [one week at scratchy's (scratch fnaf clone)](https://drive.google.com/drive/folders/11uusTsXxFeuCs9FWXo7qV1Mk3bYxALG-)
 
-made with ❤️ by ari melody, 2024
+made with ❤️ by ari melody
